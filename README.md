@@ -1,1 +1,1 @@
-# BitBar PBL ticker plugin.
+# BitBar PBL ticker plugin
